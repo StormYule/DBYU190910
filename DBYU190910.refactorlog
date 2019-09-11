@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="55628f7f-d5c3-41ba-9ea3-8b80d679fc94" ChangeDateTime="09/11/2019 14:48:59">
+    <Property Name="ElementName" Value="[dbo].[Employee]" />
+    <Property Name="ElementType" Value="SqlTable" />
+    <Property Name="ParentElementName" Value="[dbo]" />
+    <Property Name="ParentElementType" Value="SqlSchema" />
+    <Property Name="NewName" Value="[Employee11]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="dca5cc8d-265f-4ed4-a75f-9368a446a6fb" ChangeDateTime="09/11/2019 14:50:12">
+    <Property Name="ElementName" Value="[dbo].[Employee11]" />
+    <Property Name="ElementType" Value="SqlTable" />
+    <Property Name="ParentElementName" Value="[dbo]" />
+    <Property Name="ParentElementType" Value="SqlSchema" />
+    <Property Name="NewName" Value="[Employee22]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="907aa60d-3ff9-4880-9db0-9c50b90858b3" ChangeDateTime="09/11/2019 14:53:24">
+    <Property Name="ElementName" Value="[dbo].[Employee22]" />
+    <Property Name="ElementType" Value="SqlTable" />
+    <Property Name="ParentElementName" Value="[dbo]" />
+    <Property Name="ParentElementType" Value="SqlSchema" />
+    <Property Name="NewName" Value="[Employee33]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="221a7d7e-8e83-40da-8af0-5bb3638f060d" ChangeDateTime="09/11/2019 14:55:14">
+    <Property Name="ElementName" Value="[dbo].[Employee33]" />
+    <Property Name="ElementType" Value="SqlTable" />
+    <Property Name="ParentElementName" Value="[dbo]" />
+    <Property Name="ParentElementType" Value="SqlSchema" />
+    <Property Name="NewName" Value="[Employee44]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="3a33e7e5-80f7-45cc-a577-4100ead717db" ChangeDateTime="09/11/2019 14:56:27">
+    <Property Name="ElementName" Value="[dbo].[Table1]" />
+    <Property Name="ElementType" Value="SqlTable" />
+    <Property Name="ParentElementName" Value="[dbo]" />
+    <Property Name="ParentElementType" Value="SqlSchema" />
+    <Property Name="NewName" Value="[Employee]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="8aac6ba6-89c9-4430-bf0a-35a811581c51" ChangeDateTime="09/11/2019 14:57:10">
+    <Property Name="ElementName" Value="[dbo].[Employee]" />
+    <Property Name="ElementType" Value="SqlTable" />
+    <Property Name="ParentElementName" Value="[dbo]" />
+    <Property Name="ParentElementType" Value="SqlSchema" />
+    <Property Name="NewName" Value="[Employee11]" />
+  </Operation>
+</Operations>
